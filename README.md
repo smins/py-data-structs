@@ -1,2 +1,4 @@
 # py-data-structs
-Practice Implementations of Data Structures
+Implementations of common data structures in Python3
+
+Not guaranteed to be optimal or even good!
